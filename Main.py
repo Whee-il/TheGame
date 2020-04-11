@@ -1,6 +1,6 @@
 import random, pygame, time, sys
 pygame.init()
-#Global Variables
+#Global Variablefs
 
 WIN_W = 1000
 WIN_H = 750
